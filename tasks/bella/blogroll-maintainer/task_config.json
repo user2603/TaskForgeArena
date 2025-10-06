@@ -1,0 +1,4 @@
+{
+  "needed_mcp_servers": ["filesystem", "github"],
+  "needed_local_tools": ["python_execute", "claim_done"]
+}
