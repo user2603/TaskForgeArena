@@ -1,1 +1,2 @@
-config for chen-dev v1
+config for chen-dev v2
+linter: strict
