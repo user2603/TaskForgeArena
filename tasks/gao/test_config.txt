@@ -1,1 +1,2 @@
-config for gao v1
+config for gao v2
+linter: strict
