@@ -1,1 +1,2 @@
-config for eli-dev v1
+config for eli-dev v2
+linter: strict
