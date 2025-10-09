@@ -1,1 +1,2 @@
-config for hina-dev v1
+config for hina-dev v2
+linter: strict
