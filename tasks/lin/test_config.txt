@@ -1,1 +1,2 @@
-config for lin_dev v1
+config for lin_dev v2
+linter: strict
