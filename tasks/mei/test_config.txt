@@ -1,1 +1,2 @@
-config for mei-dev v1
+config for mei-dev v2
+linter: strict
