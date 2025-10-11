@@ -1,1 +1,2 @@
-config for noah_dev v1
+config for noah_dev v2
+linter: strict
